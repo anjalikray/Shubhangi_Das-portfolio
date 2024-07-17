@@ -4829,6 +4829,11 @@ body.no-scroll {
 	.container .popup-video video{
 		width: 90%;
 	}
+
+	.container .popup-video video{
+		top: 40%;
+		left: 50%;
+	}	
 }
 
 
